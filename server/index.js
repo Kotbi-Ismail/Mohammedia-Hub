@@ -6,7 +6,7 @@ import authRoutes from './routes/auth.js';
 import notificationRoutes from './routes/notifications.js';
 
 dotenv.config();
-console.log("MongoDB URI:", process.env.MONGODB_URI);
+console.log("MongoDB URI:", process.env.MONGODB_URI || 'mongodb://localhost:27017/mohammedia-citizen');
 
 
 const app = express();
