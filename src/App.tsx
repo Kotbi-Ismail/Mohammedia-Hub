@@ -9,6 +9,8 @@ import { Proposals } from './pages/Proposals';
 import { Events } from './pages/Events';
 import { Polls } from './pages/Polls';
 import { Map } from './pages/Map';
+import { Login } from './pages/Login';
+import { Register } from './pages/Register';
 import './i18n';
 
 const queryClient = new QueryClient();
@@ -27,6 +29,8 @@ function App() {
               <Route path="/events" element={<Events />} />
               <Route path="/polls" element={<Polls />} />
               <Route path="/map" element={<Map />} />
+              <Route path="/login" element={<Login />} />
+              <Route path="/register" element={<Register />} />
             </Routes>
           </div>
         </RTLProvider>
