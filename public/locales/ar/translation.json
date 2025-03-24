@@ -1,0 +1,94 @@
+{
+  "app": {
+    "name": "بوابة مواطني المحمدية",
+    "description": "منصة المشاركة المدنية لمدينة المحمدية",
+    "welcome": "مرحباً بكم في بوابة مواطني المحمدية",
+    "subtitle": "منصتكم للمشاركة في تطوير وتحسين مدينتنا الجميلة"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "reports": "البلاغات",
+    "proposals": "المقترحات",
+    "events": "الفعاليات",
+    "polls": "الاستطلاعات",
+    "map": "الخريطة",
+    "profile": "الملف الشخصي"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "verifyCaptchaIdCard": "التحقق من البطاقة الوطنية",
+    
+    "fullName": "الاسم الكامل",
+    "fullNamePlaceholder": "أدخل اسمك الكامل",
+    
+    "emailAddress": "البريد الإلكتروني",
+    "emailAddressPlaceholder": "أدخل بريدك الإلكتروني",
+    
+    "confirmEmailAddress": "تأكيد البريد الإلكتروني",
+    "confirmEmailAddressPlaceholder": "أدخل بريدك الإلكتروني مرة أخرى",
+    
+    "passwordField": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    
+    "confirmPasswordField": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "أدخل كلمة المرور مرة أخرى",
+    
+    "nationalIdCard": "رقم البطاقة الوطنية",
+    "nationalIdCardPlaceholder": "مثال: AB123456",
+    
+    "securityVerification": "التحقق الأمني",
+    "createAccount": "إنشاء حساب",
+    "creatingAccount": "جاري إنشاء الحساب...",
+    
+    "confirmEmail": "تأكيد البريد الإلكتروني",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "cnie": "رقم البطاقة الوطنية",
+    "captcha": "التحقق الأمني"
+  },
+  "common": {
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "تمت العملية بنجاح",
+    "back": "رجوع",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "features": {
+    "reports": {
+      "title": "البلاغات",
+      "description": "أبلغ عن المشاكل في مدينتك وتابع حالة معالجتها"
+    },
+    "proposals": {
+      "title": "المقترحات",
+      "description": "شارك بأفكارك لتحسين المدينة وصوت على مقترحات الآخرين"
+    },
+    "events": {
+      "title": "الفعاليات",
+      "description": "اكتشف الأحداث القادمة في المدينة وسجل حضورك"
+    },
+    "polls": {
+      "title": "الاستطلاعات",
+      "description": "شارك في استطلاعات الرأي حول قضايا المدينة"
+    },
+    "map": {
+      "title": "خريطة المدينة",
+      "description": "استكشف الخدمات والمرافق في مدينة المحمدية"
+    }
+  },
+  "stats": {
+    "resolvedReports": "بلاغ تم حله",
+    "activeUsers": "مواطن مشارك",
+    "organizedEvents": "فعالية منظمة",
+    "submittedProposals": "مقترح مقدم"
+  }
+}
